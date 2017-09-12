@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  text-align: center;
+  }
+  
+.mainheader {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  }
+  
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+  }
+
+.heading2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  }
+  
+.description {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  }
+  
+.comingsoon {
+  font-weight: 300;
+  font-size: 42px;
+  }
+  
+.copyright {
+  text-align: right;
+  color: Gray;
+  }
